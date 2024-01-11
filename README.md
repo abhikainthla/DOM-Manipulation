@@ -3,4 +3,4 @@ Welcome to DOM Mainuptation! this is created for educational purposes in order t
 
 ## Github link
 This site was built using [GitHub Pages](https://abhikainthla.github.io/DOM-Manipulation/).
-Visit the above link to see the website.
+Visit the link to see the website.
